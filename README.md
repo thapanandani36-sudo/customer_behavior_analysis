@@ -1,6 +1,7 @@
 # customer_behavior_analysis
 Data analytics project showcasing customer behavior analysis. 
 # Data Analytics Project
+This project was completed as part of a guided learning exercise based on tutorials and content by amlanmohanty1. The purpose was to practice data analytics concepts including Python, SQL, and Power BI. I completed the implementation independently while following the learning materials and used the project to strengthen my practical skills.
 
 ## Overview
 
